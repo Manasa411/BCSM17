@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1521814473996_1" label="manasa" name="manasa">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/BCSM17/data/settings.properties" type="1"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/BCSM17/testng2.xml" type="1"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1521815141890_2" label="manasa411" name="manasa411">
+<item elementID="=BCSM17" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1521720409533_0" label="Window Working Set" name="Aggregate for window 1521720409532"/>
+<mruList name="manasa411"/>
+<mruList name="manasa"/>
+</workingSetManager>
