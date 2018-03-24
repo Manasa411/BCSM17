@@ -23,6 +23,8 @@ String pw= XL.getcellvalue("./data/input.xlsx", "sheet1", 1, 1);
 
 System.out.println(pw);
 
+@SuppressWarnings("unused")
+
 String etitle= XL.getcellvalue("./data/input.xlsx", "sheet1", 1, 2);
 
 Loginpage l= new Loginpage(driver);
